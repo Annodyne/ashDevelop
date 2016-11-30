@@ -1,6 +1,6 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.phonegap.ashFull" version="1.0.0">
-  <name>Incyte - Ash</name>
-  <description>Incyte - Ash</description>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.phonegap.ashDevelop" version="1.0.0">
+  <name>Incyte Develop</name>
+  <description>Incyte Develop</description>
   <author href="http://phonegap.com" email="support@phonegap.com">3fx</author>
   <content src="index.html"/>
   <preference name="DisallowOverscroll" value="true"/>
